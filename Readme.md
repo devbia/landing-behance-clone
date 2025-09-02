@@ -20,7 +20,7 @@ O objetivo deste projeto foi treinar **HTML semântico**, **CSS responsivo** e *
 
 ## 📸 Preview
 
-<img width="1920" height="6685" alt="FireShot Capture 010 - Projeto Awax -  127 0 0 1" src="https://github.com/user-attachments/assets/d7430756-eca4-432c-967a-3baa689720b9" />
+<img alt="FireShot Capture 010 - Projeto Awax -  127 0 0 1" src="https://github.com/user-attachments/assets/d7430756-eca4-432c-967a-3baa689720b9" />
 
 ---
 
